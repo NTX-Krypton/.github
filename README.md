@@ -7,6 +7,21 @@ NTX-Krypton is an attempt at separating out the source components of the Krypton
 # Issue Tracking
 Since each module has split into a separate repository, each one now has its own issue tracker. Obviously, that can be a nightmare, so if you're not sure where to file an issue, check the [_MasterProject repo](https://github.com/NTX-Krypton/_MasterProject), whose issue tracker will serve as a catch-all for now.
 
+# Releases
+Each component of Krypton is a separate file. For most projects, you only need the [Toolkit](https://github.com/NTX-Krypton/Toolkit), where most components are. Releases of each of the libraries are set up with continuous integration (CI) so that releases here on GitHub are always up to date. This can be considered a fork of the upstream repository.
+
+# CI Progress
+At this time, some parts of this project have been set up with CI, and some will not be. I am not planning to set up the examples with CI. Currently available are:
+- [Toolkit](https://github.com/NTX-Krypton/Toolkit)
+- [Navigator](https://github.com/NTX-Krypton/Navigator)
+- [Workspace](https://github.com/NTX-Krypton/Workspace)
+- [Docking](https://github.com/NTX-Krypton/Docking)
+- [Ribbon](https://github.com/NTX-Krypton/Ribbon)
+- [Krypton Explorer](https://github.com/NTX-Krypton/Explorer)
+
+Next up:
+- [Palette Designer](https://github.com/NTX-Krypton/Palette-Designer)
+
 -----
 
 # Original Readme
