@@ -5,7 +5,7 @@ The Krypton Suite of .NET WinForms controls are freely available for use in pers
 NTX-Krypton is an attempt at separating out the source components of the Krypton toolkit and bringing them more in line with modern practices, as well as making them easier to work with. At this time, it is not managed by the original developer, Phil Wright, but he's welcome to join the org by sending me a message. Phil, if you're reading this, thanks for a fantastic-looking set of controls, and thanks again for open-sourcing them, as I've been loving them for more than a decade.
 
 # Issues
-Since each module has split into a separate repository, each one now has its own issue tracker. Obviously, that can be a nightmare, so if you're not sure where to file an issue, check this repo, which will serve as a catch-all for now.
+Since each module has split into a separate repository, each one now has its own issue tracker. Obviously, that can be a nightmare, so if you're not sure where to file an issue, check the [_MasterProject repo](https://github.com/NTX-Krypton/_MasterProject), whose issue tracker will serve as a catch-all for now.
 
 -----
 
