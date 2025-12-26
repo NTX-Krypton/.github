@@ -1,7 +1,14 @@
 # Krypton Suite of .NET WinForms Controls
-The Krypton Suite of .NET WinForms controls are now freely available for use in personal or commerical projects.
+The Krypton Suite of .NET WinForms controls are freely available for use in personal or commercial projects under the new license.
 
-I developed and sold them from my company Component Factory from 2006 until 2014, when the lack of sales meant selling the controls was no longer viable. So I decided to make them open source so that .NET developers had a good set of free controls to use in their projects. Full source code for all the controls and components is included along with Visual Studio projects and solution files.
+# NTX-Krypton
+NTX-Krypton is an attempt at separating out the source components of the Krypton toolkit and bringing them more in line with modern practices, as well as making them easier to work with. At this time, it is not managed by the original developer, Phil Wright, but he's welcome to join the org by sending me a message. Phil, if you're reading this, thanks for a fantastic-looking set of controls, and thanks again for open-sourcing them, as I've been loving them for more than a decade.
+
+-----
+
+# Original Readme
+
+> I developed and sold them from my company Component Factory from 2006 until 2014, when the lack of sales meant selling the controls was no longer viable. So I decided to make them open source so that .NET developers had a good set of free controls to use in their projects. Full source code for all the controls and components is included along with Visual Studio projects and solution files.
 
 # Getting Started #
 **Bin** directory contains already compiled copies of all the example projects and the Krypton assemblies, so I recommend you start by running the **Krypton Explorer** application in this directory. It lists all the controls along with example applications used to show them in operation.
