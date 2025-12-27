@@ -18,9 +18,15 @@ At this time, some parts of this project have been set up with CI, and some will
 - [Docking](https://github.com/NTX-Krypton/Docking)
 - [Ribbon](https://github.com/NTX-Krypton/Ribbon)
 - [Krypton Explorer](https://github.com/NTX-Krypton/Explorer)
+- [Palette Designer](https://github.com/NTX-Krypton/Palette-Designer)
 
 Next up:
-- [Palette Designer](https://github.com/NTX-Krypton/Palette-Designer)
+- Switch to a three-digit "Official" versioning system
+- Possibly rebrand as an open-source project to add new improvements to Krypton
+- Begin creating NuGet packages with releases
+- Templates for Visual Studio to quickly and easily deploy Krypton
+- Possibly some additional palettes
+- Integration of community resources
 
 -----
 
